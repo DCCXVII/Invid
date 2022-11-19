@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Invid</string>
+    <string name="app_name">Invidious</string>
 
     <string name="popular">Home</string>
     <string name="trending">Trending</string>
